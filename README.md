@@ -68,7 +68,7 @@ Live traffic was captured while generating:
 - ![ICMP Ping Traffic](icmp-ping-traffic.png)
 - ![tcpdump Live Capture](tcpdump-capture-summary.png)
 - ![tcpdump Summary](tcpdump-capture-summary.png)
-- ![Audit Logs](
+- ![Audit Logs](audit-logs-baseline.png)
 
 ---
 
