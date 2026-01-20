@@ -64,7 +64,7 @@ Live traffic was captured while generating:
 
 ## 📸 Screenshots Included
 - ![Succesful SSH Login](ssh-succesful-login.png)
-- failed-ssh-attempt-local.png
+-![Failed SSH Attempt](failed-ssh-attempt-local.png)
 - auth-log-failed-ssh.png
 - icmp-ping-traffic.png
 - tcpdump-live-capture.png
